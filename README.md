@@ -29,9 +29,9 @@
 
 ## 🔗 Dashboard Outputs
 
-<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/b0739da1-d8a5-49dd-ac4c-3bd296278350" />
+<img width="1280" height="717" alt="Image" src="https://github.com/user-attachments/assets/092f2d65-be28-4d43-95c3-5a3a42f22383" />
 
-<img width="1281" height="719" alt="Image" src="https://github.com/user-attachments/assets/fcb2af8e-1e08-4ded-aeca-d20ec61bca44" />
+<img width="1274" height="715" alt="Image" src="https://github.com/user-attachments/assets/232f8967-7e01-42b2-b1b9-2b8925ec09ad" />
 
 
 ## 👨‍💻 Developed By
