@@ -29,7 +29,9 @@
 
 ## 🔗 Dashboard Outputs
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/b0739da1-d8a5-49dd-ac4c-3bd296278350" />
 
+<img width="1281" height="719" alt="Image" src="https://github.com/user-attachments/assets/fcb2af8e-1e08-4ded-aeca-d20ec61bca44" />
 
 
 ## 👨‍💻 Developed By
